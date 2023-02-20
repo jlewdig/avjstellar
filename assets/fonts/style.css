@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'GT-Walsheim-Regular';
+   font-display: swap;
+   src: url('GT-Walsheim-Regular/font.ttf');
+}
+@font-face {
+   font-family: 'gt-walsheim-regular-webfont';
+   font-display: swap;
+   src: url('gt-walsheim-regular-webfont/font.woff');
+}
